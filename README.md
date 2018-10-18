@@ -1,4 +1,4 @@
 # modular_racks
 
-eurorack desktop racks and flightcases<br>
+eurorack desktop racks
 measured for Clicks & Clocks rails
